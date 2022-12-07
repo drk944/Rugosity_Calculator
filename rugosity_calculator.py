@@ -28,6 +28,9 @@ def intro():
     print("| This program will present several methods to measure the rugosity of a DEM |")
     print("| Press \"Ctrl C\" to exit the program at any time                             |")
     print("| Author: Derek Benham, Dept. of Computer Engineering, BYU, 2022             |")
+    print("|                                                                            |")
+    print("| The latest release can be found at:                                        |")
+    print("| https://github.com/drk944/Rugosity_Calculator.git                          |")
     print("------------------------------------------------------------------------------")
     print("\n")
 '''
